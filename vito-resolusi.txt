@@ -1,0 +1,5 @@
+VITO RESOLUSI
+- Konsisten untuk mempelajari Git dan Github sampai mahir
+- Mengajari teman-teman satu kelompok untuk menggunakan Github, bahkan sampai Git
+- Menguasai dasar-dasar JavaScript untuk pengembangan web
+- Menguasai dasar-dasar analisis data, dimulai dari business understanding sampai exploratory data analysis
