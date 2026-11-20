@@ -3,3 +3,4 @@ VITO RESOLUSI
 - Mengajari teman-teman satu kelompok untuk menggunakan Github, bahkan sampai Git
 - Menguasai dasar-dasar JavaScript untuk pengembangan web
 - Menguasai dasar-dasar analisis data, dimulai dari business understanding sampai exploratory data analysis
+- Mempersiapkan diri untuk karir di luar negeri
