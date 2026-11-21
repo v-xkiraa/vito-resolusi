@@ -1,0 +1,5 @@
+RENCANA PEMBELAJARAN JAVASCRIPT VITO
+- Mempelajari tipe data dalam JavaScript
+- Mempelajari conditional dan looping
+- Mempelajari fungsi
+- Mempelajari struktur data
