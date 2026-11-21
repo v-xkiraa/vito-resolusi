@@ -3,5 +3,7 @@ RENCANA PEMBELAJARAN JAVASCRIPT VITO
   * Tipe data string, number, boolean
   * NULL dan NaN
 - Mempelajari conditional dan looping
+  * If, elif dan else
+  * For dan while
 - Mempelajari fungsi
 - Mempelajari struktur data
